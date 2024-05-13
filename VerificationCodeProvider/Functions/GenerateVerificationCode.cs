@@ -56,14 +56,5 @@ public class GenerateVerificationCode(ILogger<GenerateVerificationCode> logger, 
 
 
 
-//try
-//{
-
-//}
-//catch (Exception ex)
-//{
-//    _logger.LogError($"ERROR : GenerateVerificationCode.Run :: {ex.Message}");
-//}
-
 
 
